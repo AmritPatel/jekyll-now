@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NCAA Basketball Predictions
+title: Predicting NCAA Basketball Wins
 ---
 
-I've been taking the Johns Hopkins Data Science Specialization series of courses for about 7 months now and am finally nearing the end. It's been quite a ride, but I'm finally ready to start crunching some numbers! I'm currently taking the Machine Learning course where prediction modeling using R is briefly (but very usefully) discussed. With March Madness quickly approaching, I've been working on building a prediction model using random forests to train based on team Basketball Power Index -- or BPI -- rating data. Below I show how this model has been faring compared to simply using BPI as a winning predictor.
+I've been taking the Johns Hopkins Data Science Specialization series of courses for about 7 months now and am finally nearing the end. It's been quite a ride, but I'm finally ready to start crunching some numbers! I'm currently taking the Machine Learning course where prediction modeling using R is briefly (but very usefully) discussed. With March Madness quickly approaching, I've been working on building a win prediction model using random forests to train based on team Basketball Power Index -- or BPI -- rating data. Below I show how this model has been faring compared to simply using BPI as a winning predictor.
 
 ![_config.yml]({{ site.baseurl }}/images/NCAAb_predictions.png)
 
