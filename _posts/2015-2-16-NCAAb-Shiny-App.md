@@ -11,6 +11,6 @@ The original app design was very basic and simpy returned the predicted winner b
 
 ![_config.yml]({{ site.baseurl }}/images/shinyShot.png)
 
-The second thing added was a dynamic plot that changes as new predictions are made. This plot shows a BPI trend for each team selected and is intended for comparing BPI magnitudes and showing how each team has been performing recently. Hopefully these plots can give some insight into why the prediction model predicts what it predicts.
+The second thing added was a dynamic plot that changes as new predictions are made. This plot shows a BPI trend for each team selected and can be used for comparing BPI magnitudes and showing how each team has been performing recently. These plots may give some insight into why the prediction model predicts what it predicts.
 
-Hopefully this app can at least score you some early round upset points come tournament time so check it out and let me know how it goes in the comment section below.
+Hopefully this app can at least score you some early round upset points come tournament time so check it out and let me know how it goes in the comment section below!
